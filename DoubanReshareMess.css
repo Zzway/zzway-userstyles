@@ -31,8 +31,8 @@
 .status-real-wrapper .usr-pic {
     display: inline!important;
 }
-/*转播对象名称-颜色*/
 
+/*转播对象名称-颜色*/
 .status-real-wrapper .mod .hd a.lnk-people,
 .status-real-wrapper .mod .hd a.lnk-people:link {
     color: #808080;
@@ -56,5 +56,10 @@
     position: inherit;
     border: none;
     padding-bottom: 0.2em;
+}
+/*转播推荐-修正对齐*/
+.status-real-wrapper .status-item .bd.rec{
+    margin-left: 19px;
+    margin-right: 19px;
 }
 }
