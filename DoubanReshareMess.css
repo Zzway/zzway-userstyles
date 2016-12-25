@@ -13,6 +13,7 @@
     box-shadow: 0px 1px 10px #f5f5f5;
     margin-right: 5px;
 }
+
 .status-real-wrapper .status-item .status-saying {
     margin-left: 0;
 }
@@ -25,6 +26,7 @@
 .status-item .mod a.reshared_by.more-reshare {
     color: #83a2c0;
     font-family: simsun;
+    font-size:0.9em;
 }
 /*转播对象头像-显示*/
 
@@ -57,9 +59,8 @@
     border: none;
     padding-bottom: 0.2em;
 }
-/*转播推荐-修正对齐*/
-.status-real-wrapper .status-item .bd.rec{
-    margin-left: 19px;
-    margin-right: 19px;
+
+.status-real-wrapper .status-item .bd{
+    padding:0px;
 }
 }
