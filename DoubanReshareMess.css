@@ -2,7 +2,7 @@
 .status-item .hd .text .lnk-people {
     font-weight: normal;
 }
-/*×ª²¥ÒõÓ°*/
+/*è½¬æ’­é˜´å½±*/
 
 .status-real-wrapper, .status-real-wrapper.say {
     cursor: pointer;
@@ -20,7 +20,7 @@
 
 .status-item .mod a.reshared_by {
     color: #808080;
-    font-family: Gentium Book Basic, ·½ÕıËÎ¿Ì±¾Ğã¿¬¼òÌå;
+    font-family: Gentium Book Basic, æ–¹æ­£å®‹åˆ»æœ¬ç§€æ¥·ç®€ä½“;
 }
 
 .status-item .mod a.reshared_by.more-reshare {
@@ -28,13 +28,13 @@
     font-family: simsun;
     font-size:0.9em;
 }
-/*×ª²¥¶ÔÏóÍ·Ïñ-ÏÔÊ¾*/
+/*è½¬æ’­å¯¹è±¡å¤´åƒ-æ˜¾ç¤º*/
 
 .status-real-wrapper .usr-pic {
     display: inline!important;
 }
 
-/*×ª²¥¶ÔÏóÃû³Æ-ÑÕÉ«*/
+/*è½¬æ’­å¯¹è±¡åç§°-é¢œè‰²*/
 .status-real-wrapper .mod .hd a.lnk-people,
 .status-real-wrapper .mod .hd a.lnk-people:link {
     color: #808080;
